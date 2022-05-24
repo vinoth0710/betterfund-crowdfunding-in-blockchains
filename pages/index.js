@@ -227,12 +227,12 @@ export default function Home({ campaigns }) {
   return (
     <div>
       <Head>
-        <title>BetterFund</title>
+        <title>FoxCrowd Funding</title>
         <meta
           name="description"
           content="Transparent Crowdfunding in Blockchain"
         />
-        <link rel="icon" href="/logo.svg" />
+        <link rel="icon" href="/download.png"/>
       </Head>
       <main className={styles.main}>
         <Container py={{ base: "4", md: "12" }} maxW={"7xl"} align={"left"}>
@@ -302,7 +302,7 @@ export default function Home({ campaigns }) {
           <HStack spacing={2}>
             <SkeletonCircle size="4" />
             <Heading as="h2" size="lg">
-              How BetterFund Works
+              How FoxCrowd Funding Works
             </Heading>
           </HStack>
           <Divider marginTop="4" />

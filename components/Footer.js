@@ -89,7 +89,7 @@ export default function Footer() {
           >
             Github
           </Link>
-          <Link href={"mailto:harshbadhai242@gmail.com"} isExternal>
+          <Link href={"mailto:vinoth07102k1@gmail.com"} isExternal>
             Contact
           </Link>
         </Stack>
@@ -109,24 +109,24 @@ export default function Footer() {
           justify={{ base: "center", md: "space-between" }}
           align={{ base: "center", md: "center" }}
         >
-          <Text>🌐 Made while 💩 by Harsh, Hritvik , Nischal & Aaditya</Text>
+          <Text>🌐 Made while by Vinoth, Nishaanth , Stephan & Aravind</Text>
           <Stack direction={"row"} spacing={6}>
-            <SocialButton label={"Website"} href={"https://harshbadhai.me/"}>
+            <SocialButton label={"Website"} href={"https://vinoth.pattarai.in/"}>
               {" "}
               <FaGlobe />
             </SocialButton>
             <SocialButton
               label={"Twitter"}
-              href={"https://twitter.com/harshbadhai28"}
+              href={"https://twitter.com/VinothS05426667"}
             >
               <FaTwitter />
             </SocialButton>
-            <SocialButton label={"Github"} href={"https://github.com/harsh242"}>
+            <SocialButton label={"Github"} href={"https://github.com/vinoth0710"}>
               <FaGithub />
             </SocialButton>
             <SocialButton
               label={"Instagram"}
-              href={"https://www.instagram.com/frames_by._harsh/"}
+              href={"https://www.instagram.com/m_.a_.x_.w_.e_.l_.l/"}
             >
               <FaInstagram />
             </SocialButton>
